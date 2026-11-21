@@ -1,0 +1,4 @@
+C:\Users\rt243\Desktop\kavya_f#\StudentManagement\obj\Debug\net10.0\StudentManagement.fsproj.AssemblyReference.cache
+C:\Users\rt243\Desktop\kavya_f#\StudentManagement\obj\Debug\net10.0\StudentManagement.AssemblyInfoInputs.cache
+C:\Users\rt243\Desktop\kavya_f#\StudentManagement\obj\Debug\net10.0\StudentManagement.AssemblyInfo.fs
+C:\Users\rt243\Desktop\kavya_f#\StudentManagement\obj\Debug\net10.0\StudentManagement.fsproj.CoreCompileInputs.cache
